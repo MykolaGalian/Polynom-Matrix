@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1_matrix", "task1_matrix\task1_matrix.csproj", "{1498E40F-DF54-4660-B032-8DC66DBAD191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1_Polynom", "task1_Polynom\task1_Polynom.csproj", "{47E26E36-C9FD-4B70-BA2D-C345114CED7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1498E40F-DF54-4660-B032-8DC66DBAD191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1498E40F-DF54-4660-B032-8DC66DBAD191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1498E40F-DF54-4660-B032-8DC66DBAD191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1498E40F-DF54-4660-B032-8DC66DBAD191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E26E36-C9FD-4B70-BA2D-C345114CED7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E26E36-C9FD-4B70-BA2D-C345114CED7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E26E36-C9FD-4B70-BA2D-C345114CED7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E26E36-C9FD-4B70-BA2D-C345114CED7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFAF12BA-1153-45D2-827E-E6FDBF654410}
+	EndGlobalSection
+EndGlobal
